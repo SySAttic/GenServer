@@ -1,0 +1,36 @@
+When generals servserv.generals.ea.com is set to 127.0.0.1 this is what
+data is being sent, aka servserv,
+
+
+On new connection
+Server Received: GET /servserv/generals/config.txt HTTP/1.1
+Host: servserv.generals.ea.com
+User-Agent: GameSpyHTTP/1.0
+
+
+
+On new connection
+Server Received: GET /servserv/generals/english-0.txt HTTP/1.1
+Host: servserv.generals.ea.com
+User-Agent: GameSpyHTTP/1.0
+
+
+
+On new connection
+Server Received: GET /servserv/generals/maps-0.txt HTTP/1.1
+Host: servserv.generals.ea.com
+User-Agent: GameSpyHTTP/1.0
+
+
+
+On new connection
+Server Received: HEAD /servserv/generals/config.txt HTTP/1.1
+Host: servserv.generals.ea.com
+User-Agent: GameSpyHTTP/1.0
+
+On new connection
+Server Received: GET /servserv/generals/MOTD-english.txt HTTP/1.1
+Host: servserv.generals.ea.com
+User-Agent: GameSpyHTTP/1.0
+
+
